@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junwlee
+- 👋 Hi, I’m @junwonlee
 - 👀 I’m interested in CS, AI, semiconductors and robotics.
 <!---
 - 🌱 I’m currently learning ...
