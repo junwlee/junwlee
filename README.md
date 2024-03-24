@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junwonlee
-- 👀 I’m interested in CS, AI, semiconductors and robotics.
+- 👀 I’m interested in AI, semiconductors and robotics.
 
 # 🔥 Experience
 - 2024 9oormthonUniv BEOTKKOTTHON_TEAM_37
